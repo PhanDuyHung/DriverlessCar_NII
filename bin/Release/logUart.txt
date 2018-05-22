@@ -1,0 +1,1591 @@
+e0.00
+k30
+Arduino init completed
+
+Event write: 100
+d fdc_pid_set_point == 1400.00
+af100
+
+Event write: 200
+d fdc_pid_set_point == 1400.00
+af100
+
+point == 2800.00
+af200
+00.00
+af100
+
+Event write: 300
+d fnt == 2800.00
+af200
+00.00
+af100
+
+dc_pid_set_point == 4200.00
+af300
+0
+
+d Enter SYSTEM_STATE_WAIT_SONAR00
+0
+
+
+d mLastSonarPulseWidth == 8
+d mLastSonarPulseW
+idth == 10
+d mLastSonarPulseWidth == 10
+d mLas
+tSonarPulseWidth == 10
+d mLastSonarPulseWidth ==
+ 9
+d mLastSonarPulseWidth == 9
+d mLastSonarPul=
+seWidth == 8
+d mLastSonarPulseWidth == 9
+d mLa=
+stSonarPulseWidth == 8
+d mLastSonarPulseWidth ==
+= 8
+d mLastSonarPulseWidth == 9
+d mLastSonarPu=
+lseWidth == 8
+d mLastSonarPulseWidth == 8
+d mL=
+astSonarPulseWidth == 8
+d mLastSonarPulseWidth =
+= 8
+d mLastSonarPulseWidth == 8
+d mLastSonarPu=
+lseWidth == 8
+d mLastSonarPulseWidth == 8
+d mL=
+astSonarPulseWidth == 8
+d mLastSonarPulseWidth =
+== 8
+d mLastSonarPulseWidth == 8
+d mLastSonarP=
+ulseWidth == 8
+d mLastSonarPulseWidth == 8
+d m=
+LastSonarPulseWidth == 9
+d mLastSonarPulseWidth 
+== 9
+d mLastSonarPulseWidth == 9
+d mLastSonarP 
+ulseWidth == 9
+d mLastSonarPulseWidth == 9
+d m 
+LastSonarPulseWidth == 8
+d mLastSonarPulseWidth 
+ == 9
+d mLastSonarPulseWidth == 8
+d mLastSonar 
+PulseWidth == 9
+d mLastSonarPulseWidth == 9
+d  
+mLastSonarPulseWidth == 8
+d mLastSonarPulseWidth
+ == 9
+d mLastSonarPulseWidth == 8
+d mLastSonarh
+PulseWidth == 9
+d mLastSonarPulseWidth == 8
+d h
+mLastSonarPulseWidth == 8
+d mLastSonarPulseWidth
+h == 8
+d mLastSonarPulseWidth == 8
+d mLastSonah
+rPulseWidth == 8
+d mLastSonarPulseWidth == 8
+dh
+ mLastSonarPulseWidth == 8
+d mLastSonarPulseWidt
+h == 8
+d mLastSonarPulseWidth == 8
+d mLastSonat
+rPulseWidth == 8
+d mLastSonarPulseWidth == 8
+dt
+ mLastSonarPulseWidth == 8
+d mLastSonarPulseWidt
+th == 8
+d mLastSonarPulseWidth == 8
+d mLastSont
+arPulseWidth == 8
+d mLastSonarPulseWidth == 8
+t
+d mLastSonarPulseWidth == 7
+d mLastSonarPulseWid
+th == 7
+d mLastSonarPulseWidth == 7
+d mLastSond
+arPulseWidth == 7
+d mLastSonarPulseWidth == 7
+d
+d mLastSonarPulseWidth == 7
+d mLastSonarPulseWid
+dth == 8
+d mLastSonarPulseWidth == 7
+d mLastSod
+narPulseWidth == 7
+d mLastSonarPulseWidth == 8d
+
+d mLastSonarPulseWidth == 8
+d mLastSonarPulseWi
+dth == 8
+d mLastSonarPulseWidth == 9
+d mLastSoi
+narPulseWidth == 9
+d mLastSonarPulseWidth == 9i
+
+d mLastSonarPulseWidth == 10
+d mLastSonarPulsei
+Width == 10
+d mLastSonarPulseWidth == 10
+d mLai
+stSonarPulseWidth == 11
+d mLastSonarPulseWidth i
+== 10
+b1
+d mLastSonarPulseWidth == 10
+d mLastS
+onarPulseWidth == 10
+d mLastSonarPulseWidth == S
+9
+d mLastSonarPulseWidth == 9
+d mLastSonarPulsS
+eWidth == 8
+d mLastSonarPulseWidth == 8
+d mLasS
+tSonarPulseWidth == 8
+d mLastSonarPulseWidth ==S
+ 8
+d mLastSonarPulseWidth == 8
+d mLastSonarPulS
+seWidth == 8
+d mLastSonarPulseWidth == 8
+d mLas
+tSonarPulseWidth == 8
+d mLastSonarPulseWidth ==s
+ 8
+d mLastSonarPulseWidth == 8
+d mLastSonarPuls
+seWidth == 8
+d mLastSonarPulseWidth == 8
+d mLas
+stSonarPulseWidth == 8
+d mLastSonarPulseWidth =s
+= 7
+d mLastSonarPulseWidth == 7
+d mLastSonarPus
+lseWidth == 7
+d mLastSonarPulseWidth == 7
+d mLa
+stSonarPulseWidth == 7
+d mLastSonarPulseWidth =a
+= 7
+d mLastSonarPulseWidth == 6
+d mLastSonarPua
+lseWidth == 6
+d mLastSonarPulseWidth == 6
+d mLa
+astSonarPulseWidth == 6
+d mLastSonarPulseWidth a
+== 6
+d mLastSonarPulseWidth == 6
+d mLastSonarPa
+ulseWidth == 6
+d mLastSonarPulseWidth == 6
+d mL
+astSonarPulseWidth == 6
+d mLastSonarPulseWidth L
+== 6
+d mLastSonarPulseWidth == 6
+d mLastSonarPL
+ulseWidth == 7
+d mLastSonarPulseWidth == 7
+d mL
+LastSonarPulseWidth == 7
+d mLastSonarPulseWidthL
+ == 7
+d mLastSonarPulseWidth == 7
+d mLastSonarL
+PulseWidth == 7
+d mLastSonarPulseWidth == 7
+d m
+LastSonarPulseWidth == 7
+d mLastSonarPulseWidthm
+ == 7
+d mLastSonarPulseWidth == 7
+d mLastSonarm
+PulseWidth == 7
+d mLastSonarPulseWidth == 7
+d m
+mLastSonarPulseWidth == 7
+d mLastSonarPulseWidtm
+h == 7
+d mLastSonarPulseWidth == 6
+d mLastSonam
+rPulseWidth == 7
+d mLastSonarPulseWidth == 7
+d 
+mLastSonarPulseWidth == 7
+d mLastSonarPulseWidt 
+h == 7
+d mLastSonarPulseWidth == 7
+d mLastSona 
+rPulseWidth == 8
+d mLastSonarPulseWidth == 7
+d 
+ mLastSonarPulseWidth == 7
+d mLastSonarPulseWid 
+th == 7
+d mLastSonarPulseWidth == 7
+d mLastSon 
+arPulseWidth == 7
+d mLastSonarPulseWidth == 6
+d
+ mLastSonarPulseWidth == 6
+d mLastSonarPulseWidd
+th == 6
+d mLastSonarPulseWidth == 6
+d mLastSond
+arPulseWidth == 6
+d mLastSonarPulseWidth == 6
+d
+d mLastSonarPulseWidth == 6
+d mLastSonarPulseWid
+dth == 6
+d mLastSonarPulseWidth == 6
+d mLastSod
+narPulseWidth == 6
+d mLastSonarPulseWidth == 7
+
+d mLastSonarPulseWidth == 6
+d mLastSonarPulseWi
+
+dth == 6
+d mLastSonarPulseWidth == 6
+d mLastSo
+
+narPulseWidth == 6
+d mLastSonarPulseWidth == 6
+
+
+d mLastSonarPulseWidth == 6
+d mLastSonarPulseW
+
+idth == 6
+d mLastSonarPulseWidth == 6
+d mLastS
+
+onarPulseWidth == 6
+d mLastSonarPulseWidth == 6
+
+d mLastSonarPulseWidth == 6
+d mLastSonarPulseW
+idth == 6
+d mLastSonarPulseWidth == 6
+d mLastS
+onarPulseWidth == 6
+d mLastSonarPulseWidth == 6
+
+d mLastSonarPulseWidth == 6
+d mLastSonarPulse
+Width == 6
+d mLastSonarPulseWidth == 7
+d mLast
+SonarPulseWidth == 7
+d mLastSonarPulseWidth == 6
+
+d mLastSonarPulseWidth == 7
+d mLastSonarPulse6
+Width == 7
+d mLastSonarPulseWidth == 7
+d mLast6
+SonarPulseWidth == 7
+d mLastSonarPulseWidth == 6
+7
+d mLastSonarPulseWidth == 6
+d mLastSonarPuls6
+eWidth == 7
+d mLastSonarPulseWidth == 6
+d mLas6
+tSonarPulseWidth == 6
+d mLastSonarPulseWidth == 
+6
+d mLastSonarPulseWidth == 6
+d mLastSonarPuls 
+eWidth == 7
+d mLastSonarPulseWidth == 6
+d mLas 
+tSonarPulseWidth == 7
+d mLastSonarPulseWidth == 
+ 7
+d mLastSonarPulseWidth == 6
+d mLastSonarPul 
+seWidth == 6
+d mLastSonarPulseWidth == 6
+d mLa 
+stSonarPulseWidth == 6
+d mLastSonarPulseWidth ==
+ 6
+d mLastSonarPulseWidth == 5
+d mLastSonarPul=
+seWidth == 6
+d mLastSonarPulseWidth == 5
+d mLa=
+stSonarPulseWidth == 5
+d mLastSonarPulseWidth ==
+= 5
+d mLastSonarPulseWidth == 5
+d mLastSonarPu=
+lseWidth == 5
+d mLastSonarPulseWidth == 5
+d mL=
+astSonarPulseWidth == 5
+d mLastSonarPulseWidth =
+= 5
+d mLastSonarPulseWidth == 5
+d mLastSonarPu=
+lseWidth == 5
+d mLastSonarPulseWidth == 6
+d mL=
+astSonarPulseWidth == 5
+d mLastSonarPulseWidth =
+== 5
+d mLastSonarPulseWidth == 6
+d mLastSonarP=
+ulseWidth == 5
+d mLastSonarPulseWidth == 6
+d m=
+LastSonarPulseWidth == 6
+d mLastSonarPulseWidth 
+== 6
+d mLastSonarPulseWidth == 6
+d mLastSonarP 
+ulseWidth == 7
+d mLastSonarPulseWidth == 7
+d m 
+LastSonarPulseWidth == 6
+d mLastSonarPulseWidth 
+ == 6
+d mLastSonarPulseWidth == 6
+d mLastSonar 
+PulseWidth == 6
+d mLastSonarPulseWidth == 5
+d  
+mLastSonarPulseWidth == 5
+d mLastSonarPulseWidth
+ == 5
+d mLastSonarPulseWidth == 5
+d mLastSonarh
+PulseWidth == 4
+d mLastSonarPulseWidth == 5
+d h
+mLastSonarPulseWidth == 4
+d mLastSonarPulseWidth
+h == 5
+d mLastSonarPulseWidth == 5
+d mLastSonah
+rPulseWidth == 5
+d mLastSonarPulseWidth == 5
+dh
+ mLastSonarPulseWidth == 5
+d mLastSonarPulseWidt
+h == 5
+d mLastSonarPulseWidth == 5
+d mLastSonat
+rPulseWidth == 5
+d mLastSonarPulseWidth == 4
+dt
+ mLastSonarPulseWidth == 4
+d mLastSonarPulseWidt
+th == 4
+d mLastSonarPulseWidth == 5
+d mLastSont
+arPulseWidth == 4
+d mLastSonarPulseWidth == 4
+t
+d mLastSonarPulseWidth == 4
+d mLastSonarPulseWid
+th == 4
+d mLastSonarPulseWidth == 4
+d mLastSond
+arPulseWidth == 4
+d mLastSonarPulseWidth == 4
+d
+d mLastSonarPulseWidth == 4
+d mLastSonarPulseWid
+dth == 4
+d mLastSonarPulseWidth == 5
+d mLastSod
+narPulseWidth == 4
+d mLastSonarPulseWidth == 4d
+
+d mLastSonarPulseWidth == 5
+d mLastSonarPulseWi
+dth == 5
+d mLastSonarPulseWidth == 4
+d mLastSoi
+narPulseWidth == 5
+d mLastSonarPulseWidth == 5i
+
+d mLastSonarPulseWidth == 4
+d mLastSonarPulseWi
+idth == 4
+d mLastSonarPulseWidth == 4
+d mLastSi
+onarPulseWidth == 4
+d mLastSonarPulseWidth == 4i
+
+d mLastSonarPulseWidth == 4
+d mLastSonarPulseW
+idth == 4
+d mLastSonarPulseWidth == 4
+d mLastSW
+onarPulseWidth == 4
+d mLastSonarPulseWidth == 4W
+
+d mLastSonarPulseWidth == 4
+d mLastSonarPulseW
+Width == 4
+d mLastSonarPulseWidth == 4
+d mLastW
+SonarPulseWidth == 4
+d mLastSonarPulseWidth == 4
+
+d mLastSonarPulseWidth == 4
+d mLastSonarPulse4
+Width == 4
+d mLastSonarPulseWidth == 4
+d mLast4
+SonarPulseWidth == 4
+d mLastSonarPulseWidth == 4
+4
+d mLastSonarPulseWidth == 4
+d mLastSonarPuls4
+eWidth == 4
+d mLastSonarPulseWidth == 4
+d mLas4
+tSonarPulseWidth == 4
+d mLastSonarPulseWidth ==4
+ 4
+d mLastSonarPulseWidth == 4
+d mLastSonarPuls
+eWidth == 4
+d mLastSonarPulseWidth == 3
+d mLass
+tSonarPulseWidth == 4
+d mLastSonarPulseWidth ==s
+ 4
+d mLastSonarPulseWidth == 4
+d mLastSonarPuls
+seWidth == 4
+d mLastSonarPulseWidth == 4
+d mLas
+stSonarPulseWidth == 4
+d mLastSonarPulseWidth =s
+= 4
+d mLastSonarPulseWidth == 4
+d mLastSonarPul
+seWidth == 4
+d mLastSonarPulseWidth == 4
+d mLal
+stSonarPulseWidth == 4
+d mLastSonarPulseWidth =l
+= 4
+d mLastSonarPulseWidth == 3
+d mLastSonarPul
+lseWidth == 4
+d mLastSonarPulseWidth == 4
+d mLl
+astSonarPulseWidth == 4
+d mLastSonarPulseWidth l
+== 4
+d mLastSonarPulseWidth == 4
+d mLastSonarPu
+lseWidth == 4
+d mLastSonarPulseWidth == 4
+d mLu
+astSonarPulseWidth == 4
+d mLastSonarPulseWidth u
+== 4
+d mLastSonarPulseWidth == 4
+d mLastSonarPu
+ulseWidth == 4
+d mLastSonarPulseWidth == 5
+d mu
+LastSonarPulseWidth == 3
+d mLastSonarPulseWidthu
+ == 4
+d mLastSonarPulseWidth == 4
+d mLastSonarP
+ulseWidth == 6
+d mLastSonarPulseWidth == 6
+d mP
+LastSonarPulseWidth == 12
+d mLastSonarPulseWidtP
+h == 11
+d mLastSonarPulseWidth == 9
+d mLastSonP
+arPulseWidth == 7
+d mLastSonarPulseWidth == 5
+P
+d mLastSonarPulseWidth == 5
+d mLastSonarPulseWiP
+dth == 5
+d mLastSonarPulseWidth == 5
+d mLastSon
+arPulseWidth == 3
+d mLastSonarPulseWidth == 5
+n
+d mLastSonarPulseWidth == 4
+d mLastSonarPulseWin
+dth == 5
+d mLastSonarPulseWidth == 5
+d mLastSon
+narPulseWidth == 4
+d mLastSonarPulseWidth == 5n
+
+d mLastSonarPulseWidth == 5
+d mLastSonarPulseWi
+dth == 5
+d mLastSonarPulseWidth == 6
+d mLastSoi
+narPulseWidth == 11
+d mLastSonarPulseWidth == 9i
+
+d mLastSonarPulseWidth == 6
+d mLastSonarPulsei
+Width == 4
+d mLastSonarPulseWidth == 5
+d mLasti
+SonarPulseWidth == 5
+d mLastSonarPulseWidth == i
+5
+d mLastSonarPulseWidth == 4
+d mLastSonarPulsi
+eWidth == 5
+d mLastSonarPulseWidth == 4
+d mLast
+SonarPulseWidth == 4
+d mLastSonarPulseWidth == t
+4
+d mLastSonarPulseWidth == 4
+d mLastSonarPulst
+eWidth == 5
+d mLastSonarPulseWidth == 4
+d mLast
+tSonarPulseWidth == 5
+d mLastSonarPulseWidth ==t
+ 3
+d mLastSonarPulseWidth == 4
+d mLastSonarPult
+seWidth == 4
+d mLastSonarPulseWidth == 4
+d mLas
+tSonarPulseWidth == 4
+d mLastSonarPulseWidth ==s
+ 4
+d mLastSonarPulseWidth == 4
+d mLastSonarPuls
+seWidth == 4
+d mLastSonarPulseWidth == 4
+d mLas
+stSonarPulseWidth == 4
+d mLastSonarPulseWidth =s
+= 4
+d mLastSonarPulseWidth == 4
+d mLastSonarPus
+lseWidth == 3
+d mLastSonarPulseWidth == 2
+d mLa
+stSonarPulseWidth == 4
+d mLastSonarPulseWidth =a
+= 3
+d mLastSonarPulseWidth == 3
+d mLastSonarPua
+lseWidth == 5
+d mLastSonarPulseWidth == 6
+d mLa
+astSonarPulseWidth == 9
+d mLastSonarPulseWidth a
+== 5
+d mLastSonarPulseWidth == 4
+d mLastSonarPa
+ulseWidth == 3
+d mLastSonarPulseWidth == 3
+d mL
+astSonarPulseWidth == 3
+d mLastSonarPulseWidth L
+== 4
+d mLastSonarPulseWidth == 3
+d mLastSonarPL
+ulseWidth == 5
+d mLastSonarPulseWidth == 5
+d mL
+LastSonarPulseWidth == 5
+d mLastSonarPulseWidthL
+ == 4
+d mLastSonarPulseWidth == 5
+d mLastSonarL
+PulseWidth == 7
+arPulseWidth == 5
+d mLastSonarL
+dulseWidth == 7
+arPulseWidth == 5
+d mLastSonarL
+ mLastSonarPulseWidth == 3106
+d Enter SYSTEM_STL
+ATE_RUN
+arPulseWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3126
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3103
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3103
+seWidth == 3106
+d Enter SYSTEM_STL
+k3137
+k3103
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3136
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3129
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3128
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3147
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3150
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3114
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3107
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3107
+seWidth == 3106
+d Enter SYSTEM_STL
+
+k3127
+3107
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3142
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3142
+seWidth == 3106
+d Enter SYSTEM_STL
+31
+0
+k3142
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3142
+seWidth == 3106
+d Enter SYSTEM_STL
+
+k3110
+3142
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3132
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3109
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3121
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3112
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3166
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3147
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3111
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3144
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3144
+seWidth == 3106
+d Enter SYSTEM_STL
+43
+0
+k3144
+seWidth == 3106
+d Enter SYSTEM_STL
+e3
+0
+k3144
+seWidth == 3106
+d Enter SYSTEM_STL
+0.00
+k3118
+
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3151
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3151
+seWidth == 3106
+d Enter SYSTEM_STL
+
+k3120
+3151
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3139
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3129
+seWidth == 3106
+d Enter SYSTEM_STL
+
+0.00
+k3129
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3124
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3156
+seWidth == 3106
+d Enter SYSTEM_STL
+
+.00
+k3156
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3129
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3139
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3136
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3149
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3136
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3115
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3125
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3147
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3147
+seWidth == 3106
+d Enter SYSTEM_STL
+k3150
+k3147
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3135
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3132
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3130
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3130
+seWidth == 3106
+d Enter SYSTEM_STL
+55
+0
+k3130
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3126
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3117
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3106
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3100
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3121
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3144
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3144
+seWidth == 3106
+d Enter SYSTEM_STL
+0
+k3164
+44
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3116
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3135
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3117
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3135
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3143
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3113
+seWidth == 3106
+d Enter SYSTEM_STL
+2
+00
+k3113
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3125
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3136
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3112
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3144
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3131
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3137
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3116
+seWidth == 3106
+d Enter SYSTEM_STL
+Event write: 300
+e0.00
+k3135
+seWidth == 3106
+d Enter SYSTEM_STL
+e0.00
+k3107
+seWidth == 3106
+d Enter SYSTEM_STL
+
+d fdc_pid_set_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3152
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3127
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3144
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3132
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3121
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3107
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3134
+_point == 4200.00
+af300
+YSTEM_STL
+
+0.00
+k3134
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3134
+_point == 4200.00
+af300
+YSTEM_STL
+.00
+k3120
+
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3127
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3136
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3141
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3128
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3128
+_point == 4200.00
+af300
+YSTEM_STL
+119
+
+k3128
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3135
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3137
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3146
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3115
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3118
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3111
+_point == 4200.00
+af300
+YSTEM_STL
+
+0.00
+k3111
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3148
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3148
+_point == 4200.00
+af300
+YSTEM_STL
+
+k3139
+3148
+_point == 4200.00
+af300
+YSTEM_STL
+e0.039
+3148
+_point == 4200.00
+af300
+YSTEM_STL
+0
+k3106
+48
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3137
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3134
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3134
+_point == 4200.00
+af300
+YSTEM_STL
+k3109
+k3134
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3147
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3144
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3135
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3147
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3109
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3119
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3122
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3136
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3109
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3119
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3128
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3147
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3108
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3181
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3181
+_point == 4200.00
+af300
+YSTEM_STL
+
+k3136
+181
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3140
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3128
+_point == 4200.00
+af300
+YSTEM_STL
+
+0.00
+k3128
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3146
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3122
+_point == 4200.00
+af300
+YSTEM_STL
+e0.00
+k3122
+_point == 4200.00
+af300
+YSTEM_STL
+
+k3124
+122
+_point == 4200.00
+af300
+YSTEM_STL
+Event write: 100
+e0.00
+k3139
+_point == 4200.00
+af300
+YSTEM_STL
+Event write: 0
+e0.00
+k3139
+_point == 4200.00
+af300
+YSTEM_STL
+3136
+d fdc_pid_set_point == 1400.00
+af100
+_STL
+e0.00
+k3109
+d fdc_pid_set_point == 
+af100
+_STL
+0.00
+af0
+9
+d fdc_pid_set_point == 
+af100
+_STL
+e0.00
+k0
+9
+d fdc_pid_set_point == 
+af100
+_STL
+3132
+
+k0
+9
+d fdc_pid_set_point == 
+af100
+_STL
+e0.00
+k3134
+d fdc_pid_set_point == 
+af100
+_STL
+e0.00
+k3141
+d fdc_pid_set_point == 
+af100
+_STL
+
+.00
+k3141
+d fdc_pid_set_point == 
+af100
+_STL
+Event write: 100
+e0.00
+k3133
+d fdc_pid_set_point == 
+af100
+_STL
+e0.00
+k3129
+d fdc_pid_set_point == 
+af100
+_STL
+set_point == 1400.00
+af100
+oint == 
+af100
+_STL
+e0.00
+k3144
+400.00
+af100
+oint == 
+af100
+_STL
+e0.00
+k3156
+400.00
+af100
+oint == 
+af100
+_STL
+e0.00
+k3126
+400.00
+af100
+oint == 
+af100
+_STL
+e0.00
+k3156
+400.00
+af100
+oint == 
+af100
+_STL
+e0.00
+k3144
+400.00
+af100
+oint == 
+af100
+_STL
+
+.00
+k3144
+400.00
+af100
+oint == 
+af100
+_STL
+e0.00
+k3102
+400.00
+af100
+oint == 
+af100
+_STL
+
+0.00
+k3102
+400.00
+af100
+oint == 
+af100
+_STL
+Event write: 100
+e0.00
+k3140
+400.00
+af100
+oint == 
+af100
+_STL
+e0.00
+k3134
+d f.00
+af100
+oint == 
+af100
+_STL
+dc_pid_set_point == 1400.00
+af100
+ 
+af100
+_STL
+e0.00
+k3128
+nt == 1400.00
+af100
+ 
+af100
+_STL
+e0.00
+k3128
+nt == 1400.00
+af100
+ 
+af100
+_STL
+0
+k3147
+28
+nt == 1400.00
+af100
+ 
+af100
+_STL
+Event write: 200
+e0.00
+k3125
+nt == 1400.00
+af100
+ 
+af100
+_STL
+e0.00
+k3125
+nt == 1400.00
+af100
+ 
+af100
+_STL
+k3146
+d fdc_pid_set_point == 2800.00
+af200
+STL
+e0.00
+k3129
+id_set_point == 2800.00
+af200
+STL
+Event write: 300
+e0.00
+k3142
+id_set_point == 2800.00
+af200
+STL
+e0.00
+k3150
+id_set_point == 2800.00
+af200
+STL
+d fdc_pid_set_point == 4200.00
+af300
+af200
+STL
+e0.00
+k3120
+point == 4200.00
+af300
+af200
+STL
+e0.00
+k3120
+point == 4200.00
+af300
+af200
+STL
+00
+k3153
+0
+point == 4200.00
+af300
+af200
+STL
+Event write: 400
+e0.00
+k3132
+point == 4200.00
+af300
+af200
+STL
+e0.00
+k3158
+d fdc_pid_set_point == 5600.00
+STL
+0
+af400
+58
+d fdc_pid_set_point == 5600.00
+STL
+e0.00
+k3150
+d fdc_pid_set_point == 5600.00
+STL
+Event write: 500
+e0.00
+k3107
+d fdc_pid_set_point == 5600.00
+STL
+e0.00
+k3147
+d fdc_pid_set_point == 5600.00
+STL
+9
+d fdc_pid_set_point == 7000.00
+af500
+00
+STL
+e0.00
+k3103
+et_point == 7000.00
+af500
+00
+STL
+e0.00
+k3141
+et_point == 7000.00
+af500
+00
+STL
+Event write: 600
+e0.00
+k3141
+et_point == 7000.00
+af500
+00
+STL
+
+k3127
+3141
+et_point == 7000.00
+af500
+00
+STL
+e0.00
+k3142
+d fdc_pid_set_00.00
+af500
+00
+STL
+point == 8400.00
+af600
+et_00.00
+af500
+00
+STL
+e0.00
+k3099
+00
+af600
+et_00.00
+af500
+00
+STL
+e0.00
+k3099
+00
+af600
+et_00.00
+af500
+00
+STL
+0.00
+k3129
+
+00
+af600
+et_00.00
+af500
+00
+STL
+e0.00
+k3126
+00
+af600
+et_00.00
+af500
+00
+STL

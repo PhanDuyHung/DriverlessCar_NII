@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../bin/Release/libtraffic-detection.a  CMakeFiles/traffic-detection.dir/DetecterTrafficSign_NII.cpp.o
+/usr/bin/ranlib ../bin/Release/libtraffic-detection.a

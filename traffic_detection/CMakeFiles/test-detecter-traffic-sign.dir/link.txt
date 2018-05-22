@@ -1,0 +1,1 @@
+/usr/bin/c++    -fopenmp -O3 -DNDEBUG   CMakeFiles/test-detecter-traffic-sign.dir/test-detecter-traffic-sign.cpp.o  -o ../bin/Release/test-detecter-traffic-sign  -L/usr/local/cuda-6.5/lib  -L/home/ubuntu/Downloads/OpenNI-Linux-Arm-2.3/Redist  -L/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/bin/Release -rdynamic 

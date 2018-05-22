@@ -1,0 +1,385 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ubuntu/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2087318493/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2087318493.dir/build.make CMakeFiles/cmTryCompileExec2087318493.dir/build
+make[1]: Entering directory `/home/ubuntu/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ubuntu/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2087318493.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec2087318493.dir/CheckSymbolExists.c.o   -c /home/ubuntu/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec2087318493
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2087318493.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec2087318493.dir/CheckSymbolExists.c.o  -o cmTryCompileExec2087318493 -rdynamic 
+CMakeFiles/cmTryCompileExec2087318493.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+make[1]: Leaving directory `/home/ubuntu/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTryCompileExec2087318493] Error 1
+make: *** [cmTryCompileExec2087318493/fast] Error 2
+
+File /home/ubuntu/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ubuntu/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec4110972642/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec4110972642.dir/build.make CMakeFiles/cmTryCompileExec4110972642.dir/build
+make[1]: Entering directory `/home/ubuntu/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ubuntu/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4110972642.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec4110972642.dir/CheckSymbolExists.c.o   -c /home/ubuntu/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec4110972642
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4110972642.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec4110972642.dir/CheckSymbolExists.c.o  -o cmTryCompileExec4110972642 -rdynamic 
+CMakeFiles/cmTryCompileExec4110972642.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: Leaving directory `/home/ubuntu/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec4110972642] Error 1
+make: *** [cmTryCompileExec4110972642/fast] Error 2
+
+File /home/ubuntu/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ubuntu/Downloads/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec3378005701/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3378005701.dir/build.make CMakeFiles/cmTryCompileExec3378005701.dir/build
+make[1]: Entering directory `/home/ubuntu/Downloads/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ubuntu/Downloads/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3378005701.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3378005701.dir/CheckSymbolExists.c.o   -c /home/ubuntu/Downloads/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec3378005701
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3378005701.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec3378005701.dir/CheckSymbolExists.c.o  -o cmTryCompileExec3378005701 -rdynamic 
+CMakeFiles/cmTryCompileExec3378005701.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+make[1]: Leaving directory `/home/ubuntu/Downloads/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTryCompileExec3378005701] Error 1
+make: *** [cmTryCompileExec3378005701/fast] Error 2
+
+File /home/ubuntu/Downloads/Lou_pid/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ubuntu/Downloads/Lou_pid_25-4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec3459643332/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3459643332.dir/build.make CMakeFiles/cmTryCompileExec3459643332.dir/build
+make[1]: Entering directory `/home/ubuntu/Downloads/Lou_pid_25-4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ubuntu/Downloads/Lou_pid_25-4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3459643332.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3459643332.dir/CheckSymbolExists.c.o   -c /home/ubuntu/Downloads/Lou_pid_25-4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec3459643332
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3459643332.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec3459643332.dir/CheckSymbolExists.c.o  -o cmTryCompileExec3459643332 -rdynamic 
+CMakeFiles/cmTryCompileExec3459643332.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+make[1]: Leaving directory `/home/ubuntu/Downloads/Lou_pid_25-4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTryCompileExec3459643332] Error 1
+make: *** [cmTryCompileExec3459643332/fast] Error 2
+
+File /home/ubuntu/Downloads/Lou_pid_25-4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ubuntu/Downloads/Lou_pid_25-4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec707707169/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec707707169.dir/build.make CMakeFiles/cmTryCompileExec707707169.dir/build
+make[1]: Entering directory `/home/ubuntu/Downloads/Lou_pid_25-4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ubuntu/Downloads/Lou_pid_25-4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec707707169.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec707707169.dir/CheckSymbolExists.c.o   -c /home/ubuntu/Downloads/Lou_pid_25-4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec707707169
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec707707169.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec707707169.dir/CheckSymbolExists.c.o  -o cmTryCompileExec707707169 -rdynamic 
+CMakeFiles/cmTryCompileExec707707169.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: Leaving directory `/home/ubuntu/Downloads/Lou_pid_25-4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec707707169] Error 1
+make: *** [cmTryCompileExec707707169/fast] Error 2
+
+File /home/ubuntu/Downloads/Lou_pid_25-4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ubuntu/Downloads/Lou_pid_30_4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1927048358/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1927048358.dir/build.make CMakeFiles/cmTryCompileExec1927048358.dir/build
+make[1]: Entering directory `/home/ubuntu/Downloads/Lou_pid_30_4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ubuntu/Downloads/Lou_pid_30_4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1927048358.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1927048358.dir/CheckSymbolExists.c.o   -c /home/ubuntu/Downloads/Lou_pid_30_4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec1927048358
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1927048358.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec1927048358.dir/CheckSymbolExists.c.o  -o cmTryCompileExec1927048358 -rdynamic 
+CMakeFiles/cmTryCompileExec1927048358.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+make[1]: Leaving directory `/home/ubuntu/Downloads/Lou_pid_30_4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTryCompileExec1927048358] Error 1
+make: *** [cmTryCompileExec1927048358/fast] Error 2
+
+File /home/ubuntu/Downloads/Lou_pid_30_4/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec3290143351/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3290143351.dir/build.make CMakeFiles/cmTryCompileExec3290143351.dir/build
+make[1]: Entering directory `/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3290143351.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3290143351.dir/CheckSymbolExists.c.o   -c /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec3290143351
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3290143351.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec3290143351.dir/CheckSymbolExists.c.o  -o cmTryCompileExec3290143351 -rdynamic 
+CMakeFiles/cmTryCompileExec3290143351.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: Leaving directory `/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec3290143351] Error 1
+make: *** [cmTryCompileExec3290143351/fast] Error 2
+
+File /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec4292785579/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec4292785579.dir/build.make CMakeFiles/cmTryCompileExec4292785579.dir/build
+make[1]: Entering directory `/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4292785579.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec4292785579.dir/CheckSymbolExists.c.o   -c /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec4292785579
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4292785579.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec4292785579.dir/CheckSymbolExists.c.o  -o cmTryCompileExec4292785579 -rdynamic 
+CMakeFiles/cmTryCompileExec4292785579.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: Leaving directory `/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec4292785579] Error 1
+make: *** [cmTryCompileExec4292785579/fast] Error 2
+
+File /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1505187955/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1505187955.dir/build.make CMakeFiles/cmTryCompileExec1505187955.dir/build
+make[1]: Entering directory `/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1505187955.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1505187955.dir/CheckSymbolExists.c.o   -c /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec1505187955
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1505187955.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec1505187955.dir/CheckSymbolExists.c.o  -o cmTryCompileExec1505187955 -rdynamic 
+CMakeFiles/cmTryCompileExec1505187955.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: Leaving directory `/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec1505187955] Error 1
+make: *** [cmTryCompileExec1505187955/fast] Error 2
+
+File /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec3194284654/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3194284654.dir/build.make CMakeFiles/cmTryCompileExec3194284654.dir/build
+make[1]: Entering directory `/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3194284654.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3194284654.dir/CheckSymbolExists.c.o   -c /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec3194284654
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3194284654.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec3194284654.dir/CheckSymbolExists.c.o  -o cmTryCompileExec3194284654 -rdynamic 
+CMakeFiles/cmTryCompileExec3194284654.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: Leaving directory `/home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec3194284654] Error 1
+make: *** [cmTryCompileExec3194284654/fast] Error 2
+
+File /home/ubuntu/DriverlessCarChallenge_MTARacer-master/round_1/DriverlessCar/carControl/src/0.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ubuntu/NII/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1943682562/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1943682562.dir/build.make CMakeFiles/cmTryCompileExec1943682562.dir/build
+make[1]: Entering directory `/home/ubuntu/NII/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ubuntu/NII/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1943682562.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1943682562.dir/CheckSymbolExists.c.o   -c /home/ubuntu/NII/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec1943682562
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1943682562.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec1943682562.dir/CheckSymbolExists.c.o  -o cmTryCompileExec1943682562 -rdynamic 
+CMakeFiles/cmTryCompileExec1943682562.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: Leaving directory `/home/ubuntu/NII/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec1943682562] Error 1
+make: *** [cmTryCompileExec1943682562/fast] Error 2
+
+File /home/ubuntu/NII/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

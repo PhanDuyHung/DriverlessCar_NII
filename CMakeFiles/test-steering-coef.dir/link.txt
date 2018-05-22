@@ -1,0 +1,1 @@
+/usr/bin/c++    -fopenmp -O3 -DNDEBUG     -o bin/Release/test-steering-coef  -L/usr/local/cuda-6.5/lib  -L/home/ubuntu/Downloads/OpenNI-Linux-Arm-2.3/Redist  -L/home/ubuntu/NII/bin/Release -rdynamic bin/Release/libi2c-pwm.a bin/Release/libuart.a -Wl,-rpath,/usr/local/cuda-6.5/lib:/home/ubuntu/Downloads/OpenNI-Linux-Arm-2.3/Redist:/home/ubuntu/NII/bin/Release 

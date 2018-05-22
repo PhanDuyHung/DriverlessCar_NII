@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/DriverlessCarChallenge/jetson/carControl/src/0.3/openni2/Singleton.h
+cstddef
+-
+
+/home/ubuntu/DriverlessCarChallenge/jetson/carControl/src/0.3/openni2/openni2.cpp
+openni2.h
+/home/ubuntu/DriverlessCarChallenge/jetson/carControl/src/0.3/openni2/openni2.h
+
+/home/ubuntu/DriverlessCarChallenge/jetson/carControl/src/0.3/openni2/openni2.h
+iostream
+-
+opencv2/videoio.hpp
+/home/ubuntu/DriverlessCarChallenge/jetson/carControl/src/0.3/openni2/opencv2/videoio.hpp
+opencv2/highgui.hpp
+/home/ubuntu/DriverlessCarChallenge/jetson/carControl/src/0.3/openni2/opencv2/highgui.hpp
+opencv2/imgproc.hpp
+/home/ubuntu/DriverlessCarChallenge/jetson/carControl/src/0.3/openni2/opencv2/imgproc.hpp
+opencv2/opencv.hpp
+/home/ubuntu/DriverlessCarChallenge/jetson/carControl/src/0.3/openni2/opencv2/opencv.hpp
+Singleton.h
+/home/ubuntu/DriverlessCarChallenge/jetson/carControl/src/0.3/openni2/Singleton.h
+

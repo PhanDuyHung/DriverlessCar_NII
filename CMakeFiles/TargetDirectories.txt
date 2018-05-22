@@ -1,0 +1,9 @@
+/home/ubuntu/NII/traffic_detection/CMakeFiles/traffic-detection.dir
+/home/ubuntu/NII/peripheral_driver/i2c/CMakeFiles/i2c-pwm.dir
+/home/ubuntu/NII/lane_detection/CMakeFiles/vanishing-point.dir
+/home/ubuntu/NII/HAL/CMakeFiles/HAL.dir
+/home/ubuntu/NII/openni2/CMakeFiles/openni2.dir
+/home/ubuntu/NII/CMakeFiles/test-autocar.dir
+/home/ubuntu/NII/stereo_vision/CMakeFiles/kinect-cv2.dir
+/home/ubuntu/NII/peripheral_driver/uart/CMakeFiles/uart.dir
+/home/ubuntu/NII/peripheral_driver/uart/CMakeFiles/test-uart.dir

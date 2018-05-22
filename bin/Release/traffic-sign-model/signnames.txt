@@ -1,0 +1,12 @@
+maximum speed limit 30km/h
+maximum speed limit 40km/h
+minimum speed limit 30km/h
+minimum speed limit end 30km/h
+no entry
+no left turn
+no right turn
+stop
+turn left
+turn left ahead
+turn right
+turn right ahead
